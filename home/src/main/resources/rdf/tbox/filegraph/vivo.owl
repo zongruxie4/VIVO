@@ -12600,9 +12600,6 @@ see: http://xmlns.com/foaf/spec/#term_Group</obo:IAO_0000112>
 
 
 
-    <rdf:Description>
-        <owl:minCardinality rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">1</owl:minCardinality>
-    </rdf:Description>
 
 </rdf:RDF>
 
